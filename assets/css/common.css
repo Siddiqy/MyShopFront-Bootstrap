@@ -1,0 +1,128 @@
+
+.main-menu {
+    padding: 25px 0px;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.site-menu ul {
+    margin-top: 15px;
+    list-style: none;
+}
+
+.site-menu ul > li {
+    display: inline-block;
+    padding-right: 25px;
+    vertical-align: middle;
+}
+
+.site-menu ul > li > a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.section-header h5 {
+    font-size: 1.1em;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-top: 30px;
+    color: #29ABE2;
+}
+
+.section-header h1 {
+    font-size: 3em;
+    font-weight: 800;
+    line-height: 1;
+    text-transform: capitalize;
+    font-family: 'Barlow', sans-serif;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: #242a3a;
+}
+
+.section-header h4 {
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 20px;
+    color: #8CC67B;
+}
+
+.section-des p {
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-top: 15px;
+    line-height: 1.7;
+    color: #7F7B8C;
+}
+
+.btn-style {
+    border-style: none;
+    border-radius: 25px;
+    padding: 10px 35px;
+    font-weight: 600;
+    background-color: #fff;
+    letter-spacing: 0.5px;
+}
+
+.section-padding {
+    padding: 80px 0px;
+}
+
+.padding-top {
+    padding-top: 60px;
+}
+
+.section-border-bottom {
+    border-bottom: 1px solid #eff8ff;
+}
+
+.btn-margin-top {
+    margin-top: 30px;
+}
+
+.footer-bg {
+    background-color: #1C1D3F;
+}
+
+.links a {
+    display: block;
+    padding: 4px 0px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.copyright-bg {
+    padding-top: 15px;
+    background-color: #181938;
+}
+
+.copyright-link {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #F1532D;
+}
+
+.sliding-up-btn {
+    position: fixed;
+    height: 30px;
+    width: 35px;
+    right: 0;
+    bottom: 0;
+    margin-right: 10px;
+    background-color: #29ABE2;
+}
+
+.sliding-up-btn i {
+    vertical-align: middle;
+    color: #fff;
+}
